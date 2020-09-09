@@ -1,0 +1,92 @@
+
+
+.vertical-center
+{
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.carousel-img
+{
+    width: auto;
+    max-height: 500px;
+    height: 500px;
+}
+
+.test
+{
+   background: url("/assets/vision.jpg");
+   background-size: 100% 100%;
+   background-position: center;
+   min-height: 300px;
+   max-height: 300px;
+   height: auto;
+   max-width: 100%;
+   
+}
+
+.nav-link
+{
+    font-size: 20px;
+}
+
+
+.banner
+{
+    background:url("/assets/banner1.jpg");
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+    min-height: 500px;
+    height: auto;
+    max-width: 100%;
+    
+    
+   
+}
+
+.card-img
+{
+    max-height: 50%;
+    height:50%;
+}
+
+
+.footer
+{
+    height: 20%;
+}
+
+
+.carousel-caption
+{
+    font-family: "Ubuntu Mono";
+    font-weight: bolder;
+}
+p
+{
+    font-family: "Ubuntu";
+}
+
+h3{
+    font-family: "Fjalla One";
+}
+.social-links
+{
+    margin: 1rem;
+}
+
+.tagline
+{
+    font-family: Raleway;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.tagline > h1
+{
+    font-size: 50px;
+}
